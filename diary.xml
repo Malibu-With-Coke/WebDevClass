@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="diary.css"?>
+<diary>
+	<schedule category="study">
+		<title lang="en">Computer Vision Lecture</title>
+		<who>Sung Su Hwang</who>
+		<when day="Tuesday, Friday">11:30~12:45</when>
+		<where>ANH 313</where>
+		<urgency>Not Urgent</urgency>
+	</schedule>
+	<schedule category="resting">
+		<title lang="en">Watching Youtube</title>
+		<who>Myself</who>
+		<when day="Everyday">13:00~16:30</when>
+		<where>My room</where>
+		<urgency>Very Urgent</urgency>
+	</schedule>
+	<schedule category="work">
+		<title lang="kor">Doing Lab Meeting</title>
+		<who>Me, Kang Minkyung, Baek Seunghyun</who>
+		<when day="Tuesday">17:00~17:30</when>
+		<where>NTH 313</where>
+		<urgency>Urgent</urgency>
+	</schedule>
+	<schedule category="sleep">
+		<title lang="en">Sleeping time</title>
+		<who>Myself</who>
+		<when day="Everyday">23:00~09:00</when>
+		<where>My room</where>
+		<urgency>Not Urgent</urgency>
+	</schedule>
+</diary>
