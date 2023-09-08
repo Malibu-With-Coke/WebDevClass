@@ -1,0 +1,25 @@
+diary, schedule, title, who, when, where, urgency
+{
+display: block;
+}
+
+diary {
+    background-color: lightblue;
+}
+
+schedule {
+    background-color: pink;
+    margin: 30px;
+}
+title {
+    text-align: left;
+    font-weight: bold;
+    font-size: 32px;
+}
+who,when, where,urgency {
+    color: white;
+    margin-left: 20px;
+    text-align: left;
+    font-size: 15px;
+}
+
